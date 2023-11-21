@@ -109,7 +109,7 @@ Specifying the type attribute of a form element is important for the browser to 
       <fieldset></fieldset>
       <fieldset></fieldset> <input type="submit" value="Submit"/>
 ```
-[adding submit button](img/submitButtom.png)
+![adding submit button](img/submitButtom.png)
 
 ## intective form
 To make the form interactive, add the required attribute to the input elements in the first fieldset.
