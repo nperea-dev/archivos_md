@@ -9,4 +9,5 @@ draft: true
 dx mean a little bit of x.
 S mean the sum of.
 
+second order of magnitude really means second order of smallness
  
