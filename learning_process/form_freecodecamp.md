@@ -78,3 +78,17 @@ title: "realizar un formulario freecodecamp"
 date: 2023-11-21T06:43:36-05:00
 draft: true
 ---
+
+## How do you link labels and inputs in HTML?
+There are two ways to pair a label and an input. One is by wrapping the input in a label (implicit), and the other is by adding a for attribute to the label and an id to the input (explicit). Think of an implicit label as hugging an input, and an explicit label as standing next to an input and holding its hand
+
+```
+ <fieldset>
+        <label for="first-name">Enter Your First Name: <input id="first-name" /></label>
+        <label for="last-name">Enter Your Last Name: <input id="last-name" /></label>
+        <label for="email">Enter Your Email: <input id="email" /></label>
+        <label for="new-password">Create a New Password: <input id="new-password" /></label>
+ </fieldset>
+```
+
+rem means root of em
