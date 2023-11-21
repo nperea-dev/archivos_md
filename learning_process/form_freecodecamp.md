@@ -1,4 +1,3 @@
-
 ---
 title: "realizar un formulario freecodecamp"
 date: 2023-11-19T08:43:36-05:00
@@ -73,3 +72,9 @@ The first fieldset will hold name, email, and password fields. Start by adding f
 ```
 
 2023-11-19-10:38
+
+---
+title: "realizar un formulario freecodecamp"
+date: 2023-11-21T06:43:36-05:00
+draft: true
+---
