@@ -51,24 +51,4 @@ esolving a conflict doesn't automatically merge the pull request in GitHub. Inst
 73457d519b06627171cb47fc34ec1201e202a269
 
 
----
-title: "realizar un formulario freecodecamp"
-date: 2023-11-19T08:43:36-05:00
-draft: true
----
-
-# creacion de un formulario
-## cuerpo de **HTML_5**
-
-```
-<!DOCTYPE html>
-<html lang="en">
-<head>
-</head>
-<body>
-</body>
-</html>
-```
-
-
 
