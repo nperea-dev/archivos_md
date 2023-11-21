@@ -92,3 +92,25 @@ There are two ways to pair a label and an input. One is by wrapping the input in
 ```
 
 rem means root of em
+
+## type attribute.
+
+Specifying the type attribute of a form element is important for the browser to know what kind of data it should expect. If the type is not specified, the browser will default to text.
+
+```
+   <form method="post" action='https://register-demo.freecodecamp.org'>
+      <fieldset>
+        <label for="first-name">Enter Your First Name: <input id="first-name" type="text" /></label>
+        <label for="last-name">Enter Your Last Name: <input id="last-name" type="text" /></label>
+        <label for="email">Enter Your Email: <input id="email" type="email" /></label>
+        <label for="new-password">Create a New Password: <input id="new-password" type="password" /></label>
+       
+      </fieldset>
+      <fieldset></fieldset>
+      <fieldset></fieldset> <input type="submit" value="Submit"/>
+```
+[adding submit button](img/submitButtom.png)
+
+## intective form
+To make the form interactive, add the required attribute to the input elements in the first fieldset.
+
